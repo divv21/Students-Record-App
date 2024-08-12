@@ -108,6 +108,15 @@
       <excludeFolder url="file://$MODULE_DIR$/Task2/Priyanshi/ai/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/Task2/Priyanshi/ai/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Task2/Priyanshi/ai/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Task3/Divija/git_followers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Task3/Divija/git_followers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Task3/Divija/git_followers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Task3/Gaurav/github_follower/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Task3/Gaurav/github_follower/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Task3/Gaurav/github_follower/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Task3/Tanay/github/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Task3/Tanay/github/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Task3/Tanay/github/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
