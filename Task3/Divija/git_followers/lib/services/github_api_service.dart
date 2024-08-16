@@ -1,9 +1,10 @@
 import 'package:http/http.dart' as http;
+import 'package:git_followers/env.dart';
 
 class Github {
   final String userName;
   final String url = 'api.github.com';
-  static String token = '';
+  static String token = '$Env.bearerToken';
 
   Github(this.userName);
 
